@@ -1,2 +1,2 @@
 # test
-for gitbash demonstartion
+for gitbash demo
